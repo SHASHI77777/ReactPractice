@@ -1,0 +1,55 @@
+.moviecard .card{
+    border: solid 1px black;
+    border-radius: 20px;
+    height:  500px;
+    width: 350px;
+}
+.moviecard{
+    display: grid;
+    grid-template-columns: auto auto auto ;
+    justify-content: space-evenly;
+}
+
+.text {
+  margin-left: 50px;
+    height: 50px;
+    width: 90%;
+    background-color: aqua;
+    margin-bottom :30px
+}
+
+.text h1{
+    color: red;
+    text-align: center;
+}
+
+
+.card {
+ /* background: #000; */
+ background-color: teal;
+}
+.card img{
+    border: solid 1px black;
+    margin:10px;
+    height: 225px;
+    width: 95%;
+    background-color: red;
+    border-radius: 20px;
+    
+}
+
+.card h2{
+    text-align: center;
+    font-weight: bold;
+    font-size: 15px;
+    color: white;
+}
+
+.card p{
+    font-size: 13px;
+    text-align: center;
+    font-weight: bold;
+    color: white;
+    text-transform: capitalize;
+    margin: 15px;
+}

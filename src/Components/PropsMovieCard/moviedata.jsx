@@ -1,0 +1,32 @@
+ export let moviedata = [
+  {
+    id: 1,
+    imageurl: "./Images/Ani.jpg",
+    moviename: "Animal",
+    actor: "Ranbir Kapoor",
+    actress: "Rashmika Mandanna",
+    desc: " The son of a wealthy, powerful industrialist returns to India and undergoes a remarkable transformation as he becomes consumed by a quest for vengeance against those threatening his father's life.",
+    dor: "1 December 2023 (India)",
+    rating: " ⭐️⭐️⭐️⭐️",
+  },
+  {
+    id: 2,
+    imageurl: "./Images/BHAI.jpeg",
+    moviename: "Bhaiyya Ji",
+    actor: "Manoj Bajpayee",
+    actress: "Zoya Hussain",
+    desc: "A retired crime boss finds himself back on the path of bloodshed and violence when he sets out to take revenge on those responsible for the death of his younger brother.",
+    dor: "24 May 2024 (India)",
+    rating: "⭐️⭐️⭐️⭐️",
+  },
+  {
+    id: 3,
+    imageurl: "./Images/MSD.jpeg",
+    moviename: " M.S. Dhoni: The Untold Story ",
+    actor: "Sushant Singh Rajput",
+    actress: "Kiara Advani",
+    desc: "M S Dhoni, a boy from Ranchi, aspires to play cricket for India. Though he initially tries to please his father by working for the Indian Railways, he ultimately decides to chase his dreams.",
+    dor: "30 September 2016 (India)",
+    rating: "⭐️⭐️⭐️⭐️⭐️",
+  },
+];

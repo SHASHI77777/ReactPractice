@@ -1,0 +1,24 @@
+.Inc-Dec {
+    text-align: center;
+    font-size: 30px;
+    padding-top: 100px;
+}
+
+button {
+    
+    height: 40px;
+    width: 190px;
+    background-color: teal;
+    border-radius: 15px;
+    border: solid 1px black;
+}
+ .container button{
+    height: 40px;
+    width: 70px;
+    background-color: teal;
+    border-radius: 15px;
+    border: solid 1px black;
+    margin: 20px;
+}
+
+

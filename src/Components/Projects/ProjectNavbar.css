@@ -1,0 +1,39 @@
+.pnavbar {
+  border: none;
+  height: 100%;
+  width: 20vw;
+  background-color: tan;
+}
+.pnavbar .heading {
+  text-align: center;
+  padding-top: 40px;
+  font-weight: bold;
+}
+.pnavbar ul {
+  margin-top: 20px;
+  text-align: center;
+  line-height: 10vh;
+  color: black;
+}
+
+.pnavbar li {
+  text-decoration: none;
+  font-family: sans-serif;
+  font-weight: bold;
+  letter-spacing: 0.3vw;
+  color: olive;
+}
+
+.p-container {
+  display: flex;
+}
+.p-container .p-right {
+  width: 100%;
+  height: 100%;
+}
+
+.nav-link {
+  font-weight: bold;
+  color: olive;
+  text-decoration: none;
+}

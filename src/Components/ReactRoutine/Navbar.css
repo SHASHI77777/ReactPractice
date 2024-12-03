@@ -1,0 +1,39 @@
+*{
+    margin: 0; padding: 0;
+    font-family: sans-serif;
+}
+.Navbar {
+    background-color:olive;
+    padding: 10px 20px;
+    height: 8vh;
+
+  }
+  
+  .Navbar ul {
+    margin-left: 300px;
+    list-style: none;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+
+  }
+  
+  .Navbar ul li {
+  
+    color: #fff;
+    font-size: 25px;
+    font-weight: 500;
+    cursor: pointer;
+    transition: color 0.3s ease;
+    margin-top: 10px ;
+  }
+  
+  .Navbar ul li:hover {
+    color: #f0a500;
+  }
+  a{
+   color: black;
+   text-decoration: none;
+  font-weight: bold;
+   
+  }

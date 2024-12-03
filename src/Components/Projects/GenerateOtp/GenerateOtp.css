@@ -1,0 +1,24 @@
+body{
+    background:white;
+}
+.head{
+    display: flex;
+    height: 100px;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+}
+
+.head button {
+margin-right: 100px;
+border: soild 1px black;
+height: 10vh;
+}
+
+
+h5{
+    margin: 20px;
+font-weight: bold;
+font-size: 25px;
+
+}

@@ -1,0 +1,37 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.tit  h1{
+    margin: 0px;
+    padding: 0px;
+    height: 10vh;
+    font-size: 40px;
+}
+.images1
+{
+display: grid;
+grid-template-columns: auto auto auto  ;
+ margin: 30px 100px;
+ row-gap: 50px;
+
+
+
+}
+img{
+    height: 300px;
+    width: 300px;
+    border: solid 1px black;
+    border-radius: 10px;
+    transition: 0.5s;
+
+}
+img:hover{
+    filter:  drop-shadow( 1px 1px 10px teal);
+    transform: scale(1.1);
+}
+h1{
+    color: red;
+    font-size: 80px;
+    background-color: aqua;
+}

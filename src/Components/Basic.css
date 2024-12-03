@@ -1,0 +1,33 @@
+
+  *{
+    margin: 0px;
+  text-align: center;
+  background-color: bisque;
+    padding: 20px;
+  }
+  .basic button {
+ 
+    display: block;
+    margin: auto;
+    margin-top: 40px;
+    padding:  20px 2px;
+    width: 25%;
+   color: blue;
+   font-style: italic;
+   font-weight: bold;
+   box-shadow: inset 1px 1px 10px black;
+   border-radius: 10px;
+   cursor: pointer;
+  }
+
+  .basic button:hover{
+    background: blueviolet;
+    color: aqua;
+    box-shadow: 1px 1px 10px 3px orange;
+  }
+
+img{
+   height: 200px;
+   width: 200px;
+  }
+  

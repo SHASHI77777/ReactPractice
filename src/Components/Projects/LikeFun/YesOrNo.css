@@ -1,0 +1,57 @@
+* {
+  margin: 0%;
+  padding: 0%;
+}
+
+.container {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  transition: background-color 0.5s;
+}
+
+
+.content {
+  border: solid 1px black;
+  text-align: center;
+  height: 300px;
+  width: 600px;
+  justify-content: center;
+  align-items: center;
+  margin-top: 100px;
+  position: absolute;
+}
+.content .text1 {
+  display: block;
+  font-weight: bold;
+  margin: 30px 20px;
+}
+
+.button {
+  display: inline;
+  font-size: 16px;
+  cursor: pointer;
+  border: none;
+  border-radius: 5px;
+  transition: all 0.3s;
+  margin-right: 20px;
+  margin-top: 100px;
+}
+
+.yes-button {
+  background-color: lightblue;
+  color: white;
+}
+
+.no-button {
+  background-color: tomato;
+  color: white;
+  position: relative;
+}
+
+.no-button:hover {
+  transform: translateY(-150px);
+}
+
+

@@ -1,0 +1,51 @@
+body{
+    background: gold;
+}
+button{
+    background: linear-gradient(orange ,white);
+    display: block;
+    margin: auto;
+    margin-bottom: 50px;
+    width: 20%;
+}
+
+  table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  th, td {
+    padding: 12px;
+    text-align: left;
+    border: 1px solid #ddd;
+  }
+  
+  th {
+    background-color: #4CAF50;
+    color: white;
+    font-weight: bold;
+  }
+  
+  tr:nth-child(even) {
+    background-color: goldenrod;
+  }
+  
+  tr:hover {
+    background-color: #ddd;
+  }
+  
+  td {
+    color: #555;
+  }
+  
+  th, td {
+    text-align: center;
+  }
+
+  .table button {
+    background: linear-gradient(orange ,white);
+    display: block;
+    margin: auto;
+    width: 25%;
+    height: 20%;
+  }

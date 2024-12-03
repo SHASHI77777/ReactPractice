@@ -1,0 +1,15 @@
+h1{
+   background-color: aqua;
+    display: block;
+    font-weight: bold;
+    text-align: center;
+    color: red;
+    width: 70%;
+    margin: auto;
+
+}
+
+body{
+    background: #022222;
+  
+}

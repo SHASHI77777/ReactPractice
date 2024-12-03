@@ -1,0 +1,54 @@
+.student-details {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    color: #333;
+  }
+  .student-details .header {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 20px;
+    text-align: center;
+  }
+  
+  .student-details table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .student-details th, td {
+    padding: 12px;
+    text-align: left;
+    border: 1px solid #ddd;
+  }
+  
+  .student-details th {
+    background-color: #4CAF50;
+    color: white;
+    font-weight: bold;
+  }
+  
+ tr:nth-child(even) {
+    background-color: #f2f2f2;
+    background-color: #333;
+  }
+  
+  .student-details tr:hover {
+    background-color: #ddd;
+  }
+  
+  .student-details  td {
+    color: #555;
+  }
+  
+  .student-details th, td {
+    text-align: center;
+  }
+
+  .student-details .view {
+    width: 60%;
+  }
+
+  .student-details  .delete{
+    width: 60%;
+    cursor: pointer;
+  }

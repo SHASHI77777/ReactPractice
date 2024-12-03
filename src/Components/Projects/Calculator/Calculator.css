@@ -1,0 +1,35 @@
+
+.tabels{
+    height: 4vh;
+    width: 50%;
+    margin: 20px auto;
+}
+.first{
+    border: none;
+    background-color: white;
+}
+ th,td{
+    height: 10vh;
+    width: 10vw;
+    border-radius: 10px;
+    background-color: orange;
+}
+
+.first .input{
+    height: 90%;
+    width: 98%;
+    font-weight: bold;
+    font-size: 60px;
+} 
+
+.input:hover{
+    cursor:not-allowed;
+}
+
+h3{
+    height: 10vh;
+   background:olive;
+    text-align: center;
+    font-size: 50px;
+    padding-top: 10px;
+}

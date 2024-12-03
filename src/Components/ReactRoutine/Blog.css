@@ -1,0 +1,41 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+ 
+   .main-box{
+    margin-top: 15px;
+   height: 50vh;
+   margin-bottom: 30px;
+   }
+   .context{
+    display: flex;
+    width: 98vw;
+    flex-wrap: wrap;
+   
+
+   }
+   .context .image{
+    margin-left: 20px;
+    width: 40vw;
+    height: 40vh;
+    
+   }
+
+   
+   .title {
+    font-weight: bold;
+    color:black;
+    text-align: center;
+    margin-bottom: 10px;
+    font-size: 50px;
+   }
+
+   .context .desc{
+
+    width: 45vw;
+    height: 40vh;
+    margin-left: 100px;
+font-size: 25px;
+font-family: sans-serif;
+   }

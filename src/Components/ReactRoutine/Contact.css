@@ -1,0 +1,52 @@
+.header{
+    display: block;
+}
+.main{
+    border: solid 1px black;
+    height: 70vh;
+    width: 40vw;
+    margin: auto;
+    margin-top: 100px;
+    background-color:rgba(87, 128, 0, 0.832);
+    border-radius: 30px;
+} 
+   input{
+       display: block;
+       margin: auto;
+       margin-top: 40px;
+       margin-bottom: 30px;
+       height: 5vh;
+       width: 28vw;
+       background-color: whitesmoke;
+       border-radius: 10px;
+       text-align: center;   
+       color: black;
+   }
+   
+   button{
+       display: block;
+       margin: auto;
+       height: 5vh;
+       width: 14vw;
+       border-radius: 10px; 
+       background-color: gold;
+   }
+   
+   
+.main  h1{
+    margin: auto;
+color: #000;
+margin-top: 40px;
+width: 35vw;
+border: solid 1px black;
+
+background-color:white;
+border-radius: 10px;
+height: 8vh;
+
+   }
+
+   h1{
+    font-size: 30px; 
+    align-content: center;
+   }

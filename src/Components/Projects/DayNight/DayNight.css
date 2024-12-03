@@ -1,0 +1,40 @@
+.header-day{
+    display: block;
+    background-color: orangered;
+    text-align: center;
+    font-size: 30px;
+    padding: 1vh 0;
+    font-weight: bold;
+    font-family: cursive;
+}
+.daynight .container-day{
+    border: solid 0px black;
+    height: 40vh;
+    width: 40vw;
+    margin: 10vh auto;
+    
+}
+.daynight .btn-box{
+    border: solid 1px black;
+    height: 10vh;
+    width: 20vw;
+    margin: 5vh auto;
+    border-radius: 30px;
+    overflow: hidden;
+    background: red;
+}
+.daynight button{
+    height: 100%;
+    width: 50%;
+    font-weight: bold;
+    transition:  all 0.5s;
+    border: none;
+    box-shadow: 1px 1px 10px black;
+}
+
+.ryt-btn{
+   margin-left: 0%;
+}
+.lft-btn{
+    margin-right: 0%;
+}
